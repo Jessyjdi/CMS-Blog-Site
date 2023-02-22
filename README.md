@@ -69,6 +69,7 @@ THEN I am able to view comments but I am prompted to log in again before I can a
 
 ## Credit
 
+https://zellwk.com/blog/async-await-express/#:~:text=To%20use%20async%2Fawait%2C%20you,handlers%E2%80%9D%20is%20more%20explicit).&text=Once%20you%20have%20the%20async,something%20immediately%20in%20your%20code.
 [-- Add notes--]
 
 ## Mock-Up
