@@ -67,3 +67,5 @@ res.render('edit-user', {
         res.status(500).json(err);
     }
 });
+
+module.exports = router;
