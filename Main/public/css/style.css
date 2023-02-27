@@ -182,6 +182,7 @@
       font-weight: bold;
       transition: color .1s;
       margin-left: 16px;
+      color: var(--dark);
   }
   
   .btn-no-style:hover {

@@ -9,10 +9,9 @@
   - [Mock-Up](#mock-up)
   - [Database Models](#database-models)
   - [Associations](#associations)
-  - [Additional-Info](#additional-info)
   - [Reach-me](#reach-me)
   - [GitHub-name](#github-name)
-  - [Video-Link](#video-link)
+  - [Heroku-Link](#heroku-link)
 
 ## Description
 [-- Add notes--]
@@ -65,24 +64,19 @@ THEN I am able to view comments but I am prompted to log in again before I can a
 
 ## Installation
 
-[-- Add notes--]
+Click the link or Copy and paste the link to your favorite browser.
 
 ## Credit
 
 https://zellwk.com/blog/async-await-express/#:~:text=To%20use%20async%2Fawait%2C%20you,handlers%E2%80%9D%20is%20more%20explicit).&text=Once%20you%20have%20the%20async,something%20immediately%20in%20your%20code.
-[-- Add notes--]
 
 ## Mock-Up
 
-[-- Add notes--]
+![Screenshot fo the application](./Assets/ScreenShot.PNG)
 
 ### Database Models
 
-[-- Add notes--]
-
-## Additional-Info
-
-[-- Add notes--]
+![Database models](./Assets/DB_Models.PNG)
 
 ## Reach-me
 
@@ -92,7 +86,7 @@ jessyjosephine.mscit@gmail.com
 
 Github: https://github.com/Jessyjdi
 
-## Video-Link
+## Heroku-Link
 
 [-- Add link--]
 
