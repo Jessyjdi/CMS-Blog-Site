@@ -1,5 +1,5 @@
 const router = require('express').Router();
-const { Comments } = require('../../models');
+const {User, Post, Comments } = require('../../models');
 const withAuth = require('../../utils/auth');
 
 // Reference UW-VIRT-FSF-PT-10-2022-U-LOLC\13-ORM\02-Challenge\Develop\routes\api\product-routes.js
