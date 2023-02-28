@@ -14,7 +14,7 @@
   - [Heroku-Link](#heroku-link)
 
 ## Description
-[-- Add notes--]
+This CMS-Blog-Site application allows different users to create an account and post blog posts. Users can also edit and delete their own posts. It also allows them to comment on posts from other users. This Site is a knowledge portal and help the web developers and users.
 
 ## User Story
 
@@ -68,6 +68,7 @@ Click the link or Copy and paste the link to your favorite browser.
 
 ## Credit
 
+Casey Miller TA for helping me to resolve the Heroku issues.
 https://zellwk.com/blog/async-await-express/#:~:text=To%20use%20async%2Fawait%2C%20you,handlers%E2%80%9D%20is%20more%20explicit).&text=Once%20you%20have%20the%20async,something%20immediately%20in%20your%20code.
 
 ## Mock-Up
@@ -88,6 +89,6 @@ Github: https://github.com/Jessyjdi
 
 ## Heroku-Link
 
-[-- Add link--]
+https://shrouded-gorge-82019.herokuapp.com/
 
 
